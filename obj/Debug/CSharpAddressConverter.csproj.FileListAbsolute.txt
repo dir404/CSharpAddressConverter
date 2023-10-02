@@ -1,0 +1,8 @@
+B:\OOP\CSharpAddressConverter\bin\Debug\CSharpAddressConverter.exe.config
+B:\OOP\CSharpAddressConverter\bin\Debug\CSharpAddressConverter.exe
+B:\OOP\CSharpAddressConverter\bin\Debug\CSharpAddressConverter.pdb
+B:\OOP\CSharpAddressConverter\obj\Debug\CSharpAddressConverter.csproj.AssemblyReference.cache
+B:\OOP\CSharpAddressConverter\obj\Debug\CSharpAddressConverter.csproj.SuggestedBindingRedirects.cache
+B:\OOP\CSharpAddressConverter\obj\Debug\CSharpAddressConverter.csproj.CoreCompileInputs.cache
+B:\OOP\CSharpAddressConverter\obj\Debug\CSharpAddressConverter.exe
+B:\OOP\CSharpAddressConverter\obj\Debug\CSharpAddressConverter.pdb
